@@ -1,0 +1,17 @@
+{
+    "name": "xs-khairul/pac01",
+    "description": "abc test pac01",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xpeedstudio\\Notice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khairul hasib"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
