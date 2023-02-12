@@ -1,6 +1,6 @@
 <?php
 
-namespace Xpeedstudio\Notice;
+namespace Xpeedstudio\Notice\Notice;
 
 defined('ABSPATH') || exit;
 
