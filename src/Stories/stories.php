@@ -4,7 +4,7 @@ namespace Xpeedstudio\Notice\Stories;
 //test
 defined( 'ABSPATH' ) || exit;
 
-if ( ! class_exists( '\Wpmet\Libs\Stories' ) ) :
+if ( ! class_exists( 'Xpeedstudio\Notice\Stories' ) ) :
 
 	class Stories {
 
